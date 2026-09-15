@@ -264,6 +264,7 @@ IT-Helpdesk-Analytics/
 ├── screenshots/
 │
 └── README.md
+```
 ## Dataset Source & Credits
 
 This project uses the **Incident Management Process Enriched Event Log** dataset from the UCI Machine Learning Repository.
@@ -276,6 +277,7 @@ This project uses the **Incident Management Process Enriched Event Log** dataset
 The original dataset was used for educational and portfolio analysis. The raw dataset has been kept unchanged, while all cleaning and transformation steps were performed separately to create the analytical dataset.
 
 Dataset source: https://archive.ics.uci.edu/dataset/498/incident%2Bmanagement%2Bprocess%2Benriched%2Bevent%2Blog
+
 ## Conclusion
 
 IT Helpdesk Intelligence demonstrates an end-to-end data analytics workflow using real-world IT service desk data.
@@ -285,6 +287,7 @@ The project combines Python-based data preparation, PostgreSQL and SQL analysis,
 The analysis provides practical insights that can help IT support teams focus on high-priority incidents, reduce inefficient handoffs, investigate recurring issues, and improve SLA monitoring.
 
 This project also demonstrates practical skills in data cleaning, data transformation, SQL, exploratory data analysis, DAX, dashboard development, and business-oriented insight generation.
+
 ## Project Highlights
 
 - Built an end-to-end IT helpdesk analytics solution from raw event-level data to an interactive Power BI dashboard.
@@ -295,6 +298,7 @@ This project also demonstrates practical skills in data cleaning, data transform
 - Identified SLA breach patterns across priority, reassignment, reopened incidents, assignment groups, and categories.
 - Designed an interactive dashboard with KPI cards, analytical charts, and filters.
 - Generated actionable business recommendations from the analysis.
+
 ## Power BI Dashboard Preview
 
 ![IT Helpdesk Intelligence Dashboard](screenshots/dashboard.png)
